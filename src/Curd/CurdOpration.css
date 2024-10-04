@@ -1,0 +1,51 @@
+.card_bg_Color {
+    background-color: rgb(175, 175, 244);
+    height: 50px;
+}
+
+.creation_Card {
+    width: 40%;
+    margin: 0 auto;
+    background-color:  rgb(175, 175, 244);
+}
+
+.modal__Header {
+    background-color: #213046;
+    color: #fff;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .close__btn {
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .submit__button {
+    background-color: #213046 !important;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .table__Column{
+    background-color: rgb(175, 175, 244);
+  }
+
+  tr:nth-child(even) {
+    background-color: rgb(231,233,235);
+  }
+ 
+  .curd__Example{
+     overflow: scroll;
+     max-height:100vh;
+  }
+ 
+ 
